@@ -1,0 +1,72 @@
+h1{
+    text-align: center;
+    border: 5px solid red;
+    border-radius: 15px;
+    background-color: lightblue;
+    color: purple;
+}
+
+.a{
+    background-color:yellow ;
+}
+
+.b{
+    color: red;
+}
+
+.c{
+    color: green;
+    font-size: 25px;
+}
+
+.d{
+    color:red ;
+}
+
+.e{
+    color: yellow;
+}
+
+.f{
+    color: green;
+}
+
+.i{
+    color: gray;
+}
+
+.aa{
+ 
+    color: black;
+}
+
+.abdullo{
+    background-color: yellow;
+    text-align: center;
+    color: black;
+    width: 600px;
+}
+
+.abd{
+    width: 190px;
+    text-align: center;
+    background-color: red;
+    color: black;
+   
+}
+
+table{
+    border: aliceblue;
+}
+
+.y{
+    background-color: green;
+    color: black;
+    text-align: center;
+}
+
+.whoever{
+    text-align: center;
+    background-color: purple;
+    color: black;
+}
